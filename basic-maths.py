@@ -14,7 +14,7 @@ def multiplication(a,b):
 
 def division(a,b):
 	# add code here
-	# return result
+	 return a/b
 
 print("1+1 is", addition(1,1))
 
